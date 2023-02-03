@@ -5,7 +5,7 @@ function WeatherApp() {
 
   useEffect(() => {
     // Fetch the weather data for today's weather
-    fetch('https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=YOUR_API_KEY')
+    fetch('https://api.open-meteo.com/v1/forecast?latitude=20.86&longitude=106.68&hourly=temperature_2m')
       .then(response => response.json())
       .then(data => {
         setWeatherData(data);

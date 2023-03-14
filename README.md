@@ -1,6 +1,5 @@
 # Cast-Video-with-subs-locally-to-TV
-This is just a simple html5 video player where you can upload your mp4/webm and vtt subtitle files locally from your pc.
-Then you can use chromecast built-in from Chrome or Edge cast it on bigger screen like TV
+This is just a simple HTML5 video player where you can upload your MP4/WEBM and VTT subtitle files locally from your PC. Then, you can use the Chromecast built-in feature from Chrome or Edge to cast it on a bigger screen like a TV.
 <ul>
         <span style="font-size: 1.2em;">
           <li>Make sure that your TV/device and PC are connected to the same Wi-Fi network</li>
